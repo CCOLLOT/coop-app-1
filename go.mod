@@ -1,4 +1,4 @@
-module github.com/CCOLLOT/appnametochange
+module github.com/CCOLLOT/coop-app-1
 
 go 1.20
 

@@ -1,4 +1,4 @@
-### Go application appnametochange repository
+### Go application coop-app-1 repository
 
 
 ### Architecture
