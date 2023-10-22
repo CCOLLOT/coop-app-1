@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	MESSAGE = "This application is running smoothly"
+	MESSAGE = "This application is running very well"
 )
 
 type App struct {
