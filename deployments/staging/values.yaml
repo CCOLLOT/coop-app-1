@@ -5,7 +5,7 @@ coop-app-1:
     repository: ghcr.io/ccollot/coop-app-1
     pullPolicy: IfNotPresent
     # Overrides the image tag whose default is the chart appVersion.
-    tag: "v0.1.0"
+    tag: "v0.1.2"
   replicaCount: 1
   service:
     port: 8080
